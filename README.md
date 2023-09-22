@@ -1,1 +1,3 @@
-I goof around with programming from time to time
+#CT7
+
+I'm a programmer / musician
